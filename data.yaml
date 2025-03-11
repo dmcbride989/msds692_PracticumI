@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/2_LicensePlateDetection/train
+val: /content/drive/MyDrive/2_LicensePlateDetection/val
+test: /content/drive/MyDrive/2_LicensePlateDetection/test
+
+nc: 1  # Number of classes (1 for license plates)
+names: ["license_plate"]
